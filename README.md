@@ -1,5 +1,6 @@
 # mediapipe_ybt
 基于MediaPipe人体动作识别模型实现的Y Balance Test智能测试系统。
+
 The Y Balance Test intelligent testing system based on MediaPipe.
 
 本项目基于@MichistaLin的mediapipe-Fitness-counter项目开发，训练算法与视频检测逻辑与原项目一致，项目地址：https://github.com/MichistaLin/mediapipe-Fitness-counter
